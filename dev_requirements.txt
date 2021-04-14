@@ -1,0 +1,6 @@
+pylint
+pylint-django
+django-stubs
+djangorestframework-stubs
+returns
+pip-tools
