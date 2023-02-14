@@ -99,7 +99,7 @@ six==1.15.0
     #   jsonschema
     #   pymemcache
     #   python-dateutil
-sqlparse==0.4.1
+sqlparse==0.4.2
     # via django
 uritemplate==3.0.1
     # via drf-spectacular
